@@ -17,6 +17,7 @@ namespace GitDemoProject
             //Sau khi push lên Git, nếu sau này code có sự thay đổi nào thì sẽ tiến hành Commit lên Git
 
             //Add more your code
+            //Add more code
         }
     }
 }
